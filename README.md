@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://hanifarafah.github.io/ppids-geography-geodetic-in-indonesia/
+- Leaflet Map https://hanifarafah.github.io/ppids-geography-geodetic-geology-in-indonesia/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1QGJl9PkD6H-Dw44r-VwOk_yf7XXwFNUJ6-Kto2o1ADs/edit#gid=0
 
 ## Create your own
